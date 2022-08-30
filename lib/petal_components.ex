@@ -16,7 +16,6 @@ defmodule PetalComponents do
         Progress,
         Breadcrumbs,
         Pagination,
-        Link,
         Modal,
         SlideOver,
         Tabs,
